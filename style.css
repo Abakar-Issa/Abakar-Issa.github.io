@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    background: #000000;
+    background: #424242;
     color: #fff;
 }
 
@@ -20,6 +20,7 @@ body{
     background-image: url(images/logo.jpg);
     background-size: cover;
     background-position: center;
+    background: #424242;
 }
 
 .container{
@@ -161,8 +162,8 @@ nav ul li a:hover::after {
 }
 
 .tab-contents ul li span{
-    color: #801d3d;
-    font-size: 14px;
+    color: #ff004f;
+    font-size: 20px;
 }
 
 .tab-contents{
